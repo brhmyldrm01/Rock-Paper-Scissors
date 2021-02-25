@@ -1,0 +1,45 @@
+@charset "UTF-8";
+
+
+
+body{background-color: #021237;}
+
+
+
+p{
+	
+}
+header{
+	text-align:center;
+	background-color:white;
+	font-size: 50px;
+	 font-family: Asap, sans-serif;
+	 color: #021237;
+	background-color: white;
+	padding: 25px;
+}
+
+
+
+#buton{
+	margin-left: auto;
+	margin-right: auto;
+	width: 500px;
+	height: 500px;
+	padding: 80px;
+	
+	
+}
+
+form>button{
+	text-align:center;
+	background-color:white;
+	font-size: 50px;
+	 font-family: Asap, sans-serif;
+	 color: #021237;
+	background-color: white;
+	border-radius: 90%;
+	margin-left: 100px;
+	padding: 50px;
+	
+}
